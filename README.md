@@ -1,8 +1,10 @@
 ## >Hello world! 
 <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/dev.gif" width="60px">
 
-Class userInfo
+Class User_Info
+
 {
+
     public:
         Name = "Neng Lao"
         Age = "30"
