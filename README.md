@@ -8,7 +8,6 @@ Class User_Info
         Education = "San Joanquin Delta College"
         Education.Major = "Computer Science"
         Education.GPA = "3.8"
-        Education.YearsAttended = "2010 - 2012"
         Coding_Languages[6] = {"C++", "Java", "Python", "VBA", "HTML", "CSS", "JavaScript"}
         Microsoft_Office[2] = {"Advanced Excel, "Advanced Powerpoint", "Microsoft Word"}
         Experiences = "Data Analysis"
